@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=haison19952013&theme=dark)
 
-## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.sukhmansingh.tech)
+<!-- ## Portfolio Website
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.sukhmansingh.tech) -->
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haison19952013@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonhaile/)
