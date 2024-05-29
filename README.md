@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haison19952013&theme=dark)](https://github.com/haison19952013)
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haison19952013&theme=dark&hide_border=true&repo=Personal-Data-Science-Projects)](https://github.com/haison19952013/Data-Science-Projects) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haison19952013&theme=dark&hide_border=true&repo=Personal-Data-Science-Projects)](https://github.com/haison19952013/Personal-Data-Science-Projects) 
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/haison19952013)
