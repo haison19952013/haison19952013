@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haison19952013&theme=dark&hide_border=true&repo=Personal-Data-Science-Projects)](https://github.com/haison19952013/Personal-Data-Science-Projects) 
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/haison19952013)
+[![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/haison19952013)
 
 ## Skills
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 
 
 ## Credly Badges
-[<img src='https://images.credly.com/size/680x680/images/42780b1f-a849-40e0-88a8-de3ab38adc52/image.png' width="75" height="75"/>](https://www.credly.com/badges/210a81c1-a34a-4578-936d-b7c0d9b4c16a/public_url)
+[<img src='https://images.credly.com/size/340x340/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png' width="75" height="75"/>](https://www.credly.com/badges/211e7762-6289-420f-a48b-51293de87c35/public_url)
 [<img src='https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png' width="75" height="75"/>](https://www.credly.com/badges/210a81c1-a34a-4578-936d-b7c0d9b4c16a/public_url)
 
 
