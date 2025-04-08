@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haison19952013&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haison19952013&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haison19952013&show_icons=true&theme=dark&utcOffset=8)](https://github.com/haison19952013)
 
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haison19952013&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=haison19952013)](https://git.io/streak-stats)
 
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=haison19952013&theme=dark)
