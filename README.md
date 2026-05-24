@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm Son Hai LE, a Data Science enthusiast with a p
 ## Credly Badges
 [<img src='https://images.credly.com/size/340x340/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png' width="75" height="75"/>](https://www.credly.com/badges/211e7762-6289-420f-a48b-51293de87c35/public_url)
 [<img src='https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png' width="75" height="75"/>](https://www.credly.com/badges/210a81c1-a34a-4578-936d-b7c0d9b4c16a/public_url)
+[<img src='https://images.credly.com/size/340x340/images/4fc094a5-2fb9-4a68-82f5-ace0dea69f71/image.png' width="75" height="75"/>](https://www.credly.com/badges/4fc094a5-2fb9-4a68-82f5-ace0dea69f71/public_url)
 
 
 
